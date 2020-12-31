@@ -1,0 +1,6 @@
+Categorie: Tennis, TeamName:nadalTeam ,Citizenship:spain
+Categorie: Tennis, TeamName:federerTeam ,Citizenship:sweeden
+Categorie: Tennis, TeamName:DjocoTeam ,Citizenship:spain
+Categorie: Tennis, TeamName:tsongaTeam ,Citizenship:sweeden
+Categorie: Soccer, TeamName:PSG ,Citizenship:France
+Categorie: Soccer, TeamName:OM ,Citizenship:France
